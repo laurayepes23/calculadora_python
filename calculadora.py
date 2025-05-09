@@ -49,5 +49,3 @@ elif opcion == "division entera":
     print("La multiplicación es:", resultado)
 else:
     print("Opción no válida")
-else:
-    print("Opción no válida")
